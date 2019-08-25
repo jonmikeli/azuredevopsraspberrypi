@@ -4,6 +4,15 @@
 ![Raspberry PI 3B+ Azure DevOps case](images/case.jpg)
 
 
+![Raspberry PI 3B+ Azure DevOps case-top](images/top1.jpg)
+
+
+![Raspberry PI 3B+ Azure DevOps case-bottom1](images/bottom1.jpg)
+
+
+![Raspberry PI 3B+ Azure DevOps case-bottom2](images/bottom2.jpg)
+
+
 You will find in this repository the **FBX** files for 3D printing a Raspberry PI 3B+ Case.
 
 A Visual Studio / DevOps theme has been used in order to build an [Azure DevOps project](https://jmidotnetfr.wordpress.com/2018/02/18/vsts-global-dashboard-3-features/) (Azure DevOps UWP dashboards on Windows IoT Core).
