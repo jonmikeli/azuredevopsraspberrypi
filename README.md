@@ -8,10 +8,12 @@ You will find in this repository the **FBX** files for 3D printing a Raspberry P
 
 A Visual Studio / DevOps theme has been used in order to build an [Azure DevOps project](https://jmidotnetfr.wordpress.com/2018/01/30/vsts-global-dashboard-1-the-beginning/) (Azure DevOps UWP dashboards on Windows IoT Core).
 
+The case includes VESA support.
+
 
 This work is based in the model published [here](https://www.thingiverse.com/thing:922740).
 
-The model is under a [Creative Commons License](License.md).
+The source model and this work are under a [Creative Commons License](License.md).
 
 
 > [!NOTE]
