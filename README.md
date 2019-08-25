@@ -6,7 +6,7 @@
 
 You will find in this repository the **FBX** files for 3D printing a Raspberry PI 3B+ Case.
 
-A Visual Studio / DevOps theme has been used in order to build an [Azure DevOps project](https://jmidotnetfr.wordpress.com/2018/01/30/vsts-global-dashboard-1-the-beginning/)(Azure DevOps UWP dashboards on Windows IoT Core).
+A Visual Studio / DevOps theme has been used in order to build an [Azure DevOps project](https://jmidotnetfr.wordpress.com/2018/01/30/vsts-global-dashboard-1-the-beginning/) (Azure DevOps UWP dashboards on Windows IoT Core).
 
 
 This work is based in the model published [here](https://www.thingiverse.com/thing:922740).
