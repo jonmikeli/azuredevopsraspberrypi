@@ -28,8 +28,8 @@ The source model and this work are under a [Creative Commons License](License.md
 > [!NOTE]
 >
 > The case has been reviewed to add room enough to host an internal fan.
-> A few adjustments over the USB ports are needed to make the case perfect.
-> The first version was created with the current design thinking in providing room but after a few tests, filling up the empty spaces is probably better.
+> A few adjustments over the USB ports are needed to polish a few design details.
+> Current version contains uncovered/unfilled room over the USB ports. After a few printing and assembling tests, filling up the empty space is probably better.
 
 
 
